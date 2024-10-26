@@ -1,0 +1,24 @@
+ApplicationTest/SensorDataAverager.java
+ ApplicationTest.SensorDataAverager
+ApplicationTest/SensorPositionFinderApplicationTest.java
+ ApplicationTest.SensorPositionFinderApplicationTest
+com/sword/algorithms/supportlib/filereading/SensorDataFile.java
+ com.sword.algorithms.supportlib.filereading.SensorDataFile
+ com.sword.algorithms.supportlib.filereading.SensorDataFile$DataColumns
+ com.sword.algorithms.supportlib.filereading.SensorDataFile$SensorDataFileException
+ com.sword.algorithms.supportlib.filereading.SensorDataFile$SensorDataIterator
+com/sword/algorithms/supportlib/sensorpositionfinding/SensorPositionFinder.java
+ com.sword.algorithms.supportlib.sensorpositionfinding.SensorPositionFinder
+Main.java
+ Main
+ Main$SensorPositionFinderTester
+com/sword/algorithms/supportlib/datatypes/Sensor.java
+ com.sword.algorithms.supportlib.datatypes.Sensor
+com/sword/algorithms/supportlib/datatypes/SensorData.java
+ com.sword.algorithms.supportlib.datatypes.SensorData
+com/sword/algorithms/supportlib/sensorpositionfinding/SensorPositionRequester.java
+ com.sword.algorithms.supportlib.sensorpositionfinding.SensorPositionRequester
+com/sword/algorithms/supportlib/datatypes/SensorPosition.java
+ com.sword.algorithms.supportlib.datatypes.SensorPosition
+ApplicationTest/ISensorDataCleaner.java
+ ApplicationTest.ISensorDataCleaner
